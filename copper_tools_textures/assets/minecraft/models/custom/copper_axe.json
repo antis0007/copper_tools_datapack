@@ -1,4 +1,4 @@
-custom/c{
+{
   "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "custom/copper_axe"
