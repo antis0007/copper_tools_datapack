@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "copper_tools:copper_axe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "copper_tools:give/copper_axe"
+    }
+}
